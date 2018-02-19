@@ -1,5 +1,5 @@
 # Svensk Utvidgad
-![alt text](https://raw.githubusercontent.com/DandelionSprout/Svensk-Utvidgad-tangentbord/master/Svensk Utvidgat.png)
+![alt text](https://raw.githubusercontent.com/DandelionSprout/Svensk-Utvidgad-tangentbord/master/SvenskUtvidgat.png)
 
 Det här er et svensk utvidgat alternativt tangentbordutläggning som er långt bättre än det urgamla Windows-utläggningen. Har er någonsin irriterat er över hur ditt svenska Windows-tangentbord fortfarande har sådär tangenter som µ och ¤, men inte har sådär super-viktiga tangenter som °, •, ∞, ★, och  ̧ ? Nu behöver era aldrig at irritera era över det igen.
 
